@@ -29,5 +29,4 @@ public abstract class accReader extends Activity implements SensorEventListener 
     }
     public void onSensorChanged(SensorEvent event){
     }
-
 }
